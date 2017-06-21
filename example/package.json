@@ -2,10 +2,10 @@
   "name": "static-react-demo",
   "version": "1.0.0",
   "devDependencies": {
-    "babel-preset-env": "^1.5.1",
+    "babel-preset-env": "^1.5.2",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
-    "static-react": "^3.2.0"
+    "static-react": "^4.0.0-1"
   },
   "scripts": {
     "test": "../bin/static-react.js Root.js"

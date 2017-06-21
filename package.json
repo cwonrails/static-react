@@ -15,12 +15,12 @@
   "dependencies": {
     "babel-register": "^6.24.1",
     "meow": "^3.7.0",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
   },
   "devDependencies": {
     "ava": "^0.19.1",
-    "is-html": "^1.0.0"
+    "is-html": "^1.1.0"
   },
   "repository": {
     "type": "git",
